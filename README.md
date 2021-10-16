@@ -105,6 +105,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Testimonial Slider
 * Contact Form For Portfolio with Firebase as Realtime DB
 
+
 ### React JS
 
 * ToDo App
@@ -162,6 +163,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Health Tracker App
 * Meme Generator
 * YouTube Clone
+* Food recommendation App
 
 ## Back End Ideas
 
